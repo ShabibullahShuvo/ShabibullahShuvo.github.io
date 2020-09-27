@@ -1,6 +1,13 @@
 body{
 
     font-family:  'Quicksand', sans-serif;
-    color: brown;
-    background-color: rgb(21, 25, 34);
+    
+}
+.banner-container{
+    background-color: rgb(243, 203, 203);
+
+}
+.banner-column{
+    background-color: rgb(245, 148, 69);
+    margin: auto;
 }
