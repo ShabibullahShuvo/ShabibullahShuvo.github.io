@@ -11,3 +11,40 @@ body{
     background-color: rgb(245, 148, 69);
     margin: auto;
 }
+.navber-container{
+background-color: rgb(136, 128, 128);
+
+}
+.about-container{
+ background-color: rgb(139, 245, 222);
+
+}
+.education-container{
+    background-color: rgba(253, 216, 191, 0.815);
+
+}
+ 
+  
+
+
+.redtype-color{
+    color: tomato;
+}
+.circle{
+     width: 150px; height: 150px; border-radius: 50%;
+    background-color: rgb(253, 134, 113);
+    
+}
+
+
+.project-container{
+
+    background-color:rgba(216, 74, 74, 0.61) ;
+}
+.container{
+    background-color: thistle;
+}
+
+p{
+    color: black;
+}
