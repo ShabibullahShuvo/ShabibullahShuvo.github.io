@@ -27,8 +27,6 @@ z-index: 1;
 
 }
  
-  
-
 
 .redtype-color{
     color: tomato;
@@ -57,6 +55,11 @@ p{
    
     margin-top: 1cm;
 }
+
+.gallery-container{
+
+    background-color: rgb(240, 184, 184);
+}
 .form-container{
 
     background-color: rgba(199, 227, 243, 0.966);
@@ -73,3 +76,35 @@ background-color: rgb(73, 73, 73);
     color:black!important;
    
 }
+.footer{
+background-color: rgb(69, 107, 182);
+
+
+}
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 15px;
+    text-align: center;
+    color: teal;
+    margin: .3cm;
+
+}
+.circle:hover{
+    width: 70px;
+    height: 70px;
+    border-radius: 70%;
+    display: inline-block;
+    background-color: rgb(252, 144, 144);
+    font-size: 60px;
+    text-align: center;
+    color: rgb(86, 112, 112);
+    margin: .7%;
+    font-size: 20px;
+}
+
+
+
